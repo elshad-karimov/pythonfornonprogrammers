@@ -1,2 +1,2 @@
-# PythonBootcamp
-Python Bootcamp repository for my Students
+# Python For Non Programmers
+Python For Non Programmers repository for my Students
